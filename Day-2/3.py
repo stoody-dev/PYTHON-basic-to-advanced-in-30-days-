@@ -11,17 +11,18 @@ print (name[3])
 print (name[4])
 print (name[5])#on using print(name[6] we get an error because there is nothing at 6th index)
 
-intro='''
-hi 
-i am stoody-dev
-a weeb dev xd
-'''
-for character in intro: # to print every character in a multi line string we use for loop
-    print (character) 
+# intro='''
+# hi 
+# i am stoody-dev
+# a weeb dev xd
+# '''
+# for character in intro: # to print every character in a multi line string we use for loop
+#     print (character) 
 
 
 #string slicing
-names ="Akshay,stoody"
+names ="kAshay,stoody"
 print(names[0:6])
 print(names[0:-5])
+print(names[0:-2])
 print(len(names))
