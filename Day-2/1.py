@@ -4,11 +4,6 @@ print(3+4)
 
 #this is a comment 
 #--------------------------------------------------------------------------------
-a=12
-print(a)
-b=2
-print(a+b)
-print(type(a))
 c = "stoody"
 print(c)
 print(type(c))
@@ -17,3 +12,14 @@ print(d, type(d))
 list1 = [4,4.3,[-3,2],['apple'], [] ]
 print(list1)
 
+#taking inputs from users 
+a=input()
+print(a)
+
+b=input("Enter your name: ")
+print("My Name is",b)
+
+#arithmatic integers between two integers 
+x=input("enter first number:")
+y=input("enter second solution:")
+print(int(x)+int(y))#typecasting required 
