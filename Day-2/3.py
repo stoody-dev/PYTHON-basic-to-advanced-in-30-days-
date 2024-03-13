@@ -26,3 +26,5 @@ print(names[0:6])
 print(names[0:-5])
 print(names[0:-2])
 print(len(names))
+
+#index error - it refers to the type of the error that occurs when a position that does not exist in the string is accessed .
