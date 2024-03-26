@@ -12,4 +12,6 @@ print(d, type(d))
 list1 = [4,4.3,[-3,2],['apple'], [] ]
 print(list1)
 # using separators to print 
-print ('this', 'is', 'a','course','on','python' ,)
+print ('this', 'is', 'a','course','on','python' , sep='++')
+print("I am here to learn \python\ programming")
+
