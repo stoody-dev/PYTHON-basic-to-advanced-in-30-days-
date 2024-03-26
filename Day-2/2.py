@@ -15,3 +15,6 @@ e=1   #int
 f=2.4 #float
 
 print(e+f)#it will give float as a output as python automatically converts to another data type to prevent data loss 
+print(2+3)
+print (3>5)
+print ("3>5")

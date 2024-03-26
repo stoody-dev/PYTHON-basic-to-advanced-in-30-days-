@@ -9,3 +9,4 @@ print("My Name is",b)
 x=input("enter first number:")
 y=input("enter second solution:")
 print(int(x)+int(y))#typecasting required 
+
