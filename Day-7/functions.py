@@ -1,3 +1,5 @@
+#function is a block of code that performs a specific task whenever it is called
+
 def isgreater (a,b):
     if (a>b):
         print ("a is greater")
